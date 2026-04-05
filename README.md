@@ -1,4 +1,4 @@
-# Python Learning
+# Python Projects
 
 This repository contains Python practice programs and small projects focused on building a strong understanding of basic programming concepts. The projects are simple command-line applications written in Python.
 
